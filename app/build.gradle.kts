@@ -109,7 +109,7 @@ android {
         // versionName is the human-facing semver string. Do NOT edit it by hand —
         // release-please bumps it from your Conventional Commits. The trailing
         // comment is the marker its "generic" updater looks for. See docs/RELEASING.md.
-        versionName = "1.3.0" // x-release-please-version
+        versionName = "1.4.0" // x-release-please-version
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
