@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.4.0](https://github.com/srednimax/binky-app/compare/v1.3.0...v1.4.0) (2026-08-08)
+
+
+### Features
+
+* give Binky its own palette, type scale and spacing rhythm ([61abe63](https://github.com/srednimax/binky-app/commit/61abe63ef2cb5f61e42e2ca748c5dc4095495656))
+
+
+### Bug Fixes
+
+* paint the trend flag apricot rather than error red ([e825017](https://github.com/srednimax/binky-app/commit/e82501711a449411e8850a458b5c32366cd25697))
+
 ## [1.3.0](https://github.com/srednimax/binky-app/compare/v1.2.0...v1.3.0) (2026-08-06)
 
 
